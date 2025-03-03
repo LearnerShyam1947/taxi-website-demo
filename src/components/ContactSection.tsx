@@ -24,7 +24,7 @@ const ContactSection: React.FC = () => {
                 <Phone className="text-gold-500 mr-4 mt-1" size={20} />
                 <div>
                   <h4 className="font-semibold mb-1">Phone</h4>
-                  <p className="text-gray-300">+1 (555) 123-4567</p>
+                  <p className="text-gray-300">+91 9966111120</p>
                   <p className="text-sm text-gray-400 mt-1">Available 24/7 for bookings</p>
                 </div>
               </div>
@@ -33,7 +33,7 @@ const ContactSection: React.FC = () => {
                 <MessageSquare className="text-gold-500 mr-4 mt-1" size={20} />
                 <div>
                   <h4 className="font-semibold mb-1">WhatsApp</h4>
-                  <p className="text-gray-300">+1 (555) 987-6543</p>
+                  <p className="text-gray-300">+91 9966111120</p>
                   <p className="text-sm text-gray-400 mt-1">Quick responses within minutes</p>
                 </div>
               </div>
@@ -42,7 +42,7 @@ const ContactSection: React.FC = () => {
                 <Mail className="text-gold-500 mr-4 mt-1" size={20} />
                 <div>
                   <h4 className="font-semibold mb-1">Email</h4>
-                  <p className="text-gray-300">bookings@goldride.com</p>
+                  <p className="text-gray-300">vip.travels.tirupati@gmail.com</p>
                   <p className="text-sm text-gray-400 mt-1">For inquiries and support</p>
                 </div>
               </div>
@@ -51,8 +51,8 @@ const ContactSection: React.FC = () => {
                 <MapPin className="text-gold-500 mr-4 mt-1" size={20} />
                 <div>
                   <h4 className="font-semibold mb-1">Office Location</h4>
-                  <p className="text-gray-300">123 Luxury Drive, Suite 500</p>
-                  <p className="text-gray-300">New York, NY 10001</p>
+                  <p className="text-gray-300">19-49-s9-1860 varshitha towers flat Num 203 postal colony 7th cross </p>
+                  <p className="text-gray-300">Tirupathi-517501</p>
                 </div>
               </div>
               
@@ -78,7 +78,7 @@ const ContactSection: React.FC = () => {
               </a>
               
               <a 
-                href="tel:+15551234567" 
+                href="tel:+919966111120" 
                 className="bg-gold-500 hover:bg-gold-600 text-black px-4 py-2 rounded-md flex items-center transition-colors duration-300"
               >
                 <Phone size={18} className="mr-2" />

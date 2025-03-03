@@ -1,12 +1,12 @@
 import React from 'react';
-import { Car } from 'lucide-react';
+import logo from '../assets/logo.jpeg';
 
 const Logo: React.FC = () => {
   return (
     <div className="flex items-center">
-      <Car className="h-8 w-8 text-gold-500" />
+      <img src={logo} style={{ width: '60px', height: '60px' }} alt="Logo" />
       <span className="ml-2 text-xl font-bold text-white">
-        Taxi<span className="text-gold-500">Ride</span>
+      VIP<span className="text-gold-500"> TRAVELS</span>
       </span>
     </div>
   );

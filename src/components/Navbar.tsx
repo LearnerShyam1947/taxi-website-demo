@@ -51,7 +51,7 @@ const Navbar: React.FC = () => {
               )
             ))}
             <a 
-              href="tel:+1234567890" 
+              href="tel:+919966111120" 
               className="flex items-center bg-gold-500 hover:bg-gold-600 text-black px-4 py-2 rounded-md transition-colors duration-200"
             >
               <Phone size={18} className="mr-2" />
@@ -103,7 +103,7 @@ const Navbar: React.FC = () => {
               )
             ))}
             <a 
-              href="tel:+1234567890" 
+              href="tel:+919966111120" 
               className="flex items-center justify-center bg-gold-500 hover:bg-gold-600 text-black px-4 py-2 rounded-md transition-colors duration-200 mt-4"
               onClick={() => setMobileMenuOpen(false)}
             >
